@@ -14,7 +14,7 @@ This project is entirely created using HTML and CSS.
 
 
 # Github pages
-[Here](https://whiz25.github.io/CSS-GRIDS/)
+[Here](https://grace-mugoiri.github.io/CSS-GRIDS/)
 
 # Authors
 @whiz25, @grace-mugoiri
