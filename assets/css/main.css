@@ -1,11 +1,32 @@
-.main-nav{
-    display: grid;
-    grid-row-gap: 100%;
+body{
+  font: bold 24px 'Roboto', sans-serif;
 }
+
+.grid{
+  background: #fc4235;
+  height: 95px;
+}
+
+[class*='col-']{
+  float: left;
+}
+
 .col-2-7 {
-    width: 66.66%;
+    width: 20%;
     
   }
 .col-1-7 {
-    width: 33.33%;
+    width: 12%;
   }
+
+#left{
+  background: #bf392f;
+  height: 619px;
+  width: 50%;
+}
+
+#right{
+  background: #9e3129;
+  height: 619px;
+  width: 50%;
+}
