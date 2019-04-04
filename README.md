@@ -13,7 +13,7 @@ This project is entirely created using HTML and CSS.
 
 
 
-# Github pages
+# Live Version
 [Here](https://grace-mugoiri.github.io/CSS-GRIDS/)
 
 # Authors
